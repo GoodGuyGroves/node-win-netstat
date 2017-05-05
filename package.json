@@ -1,0 +1,22 @@
+{
+  "name": "node-win-netstat",
+  "version": "1.0.0",
+  "description": "Wraps windows netstat for node",
+  "main": "win-node-netstat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodGuyGroves/node-win-netstat.git"
+  },
+  "author": "@yowkah",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GoodGuyGroves/node-win-netstat/issues"
+  },
+  "homepage": "https://github.com/GoodGuyGroves/node-win-netstat#readme",
+  "dependencies": {
+    "winston": "^2.3.1"
+  }
+}

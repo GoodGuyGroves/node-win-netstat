@@ -2,7 +2,7 @@
   "name": "node-win-netstat",
   "version": "1.0.0",
   "description": "Wraps windows netstat for node",
-  "main": "win-node-netstat.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
